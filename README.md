@@ -1,2 +1,2 @@
-# IHC
-Atividade Persona e mapa de empatia
+# Integrantes do grupo
+Ian Matsuhara Ferraz
